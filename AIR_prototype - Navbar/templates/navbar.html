@@ -1,0 +1,57 @@
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
+        <style>
+        body {
+          margin: 0;
+          font-family: 'Montserrat';font-size: 22px;
+        }
+        
+        .topnav {
+          overflow: hidden;
+          background-color: #0b0f40;
+        }
+        
+        .topnav a {
+          float: right;  
+          color: #58b6ed;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+          font-size: 14px;
+        }
+
+        .topnav b {
+            float: left;  
+            color: #95b033;
+            text-align: left;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-size: 14px;
+        }
+        
+        .topnav a:hover {
+            background-color: #c0e637;
+            color: white;
+            text-decoration: none;
+        }
+        
+        .topnav a.active {
+            background-color: #c0e637;
+            color: white;
+            text-decoration: none;
+        }
+        </style>
+        </head>
+        <body>
+        
+        <div class="topnav">
+          <b href="#air">A.I.R.</b>
+          <a href="{{ url_for('view_main_map') }}">Main Map</a>
+          <a href="{{ url_for('view_plain_map') }}">Plain Map</a>
+        </div>
+        
+        
+        </body>
+</html>
