@@ -13,8 +13,7 @@ Special thanks to the hosts for for making this hackathon possible:
 
 # About A.I.R.
 
-
-We aim to help the residents of Saint Louise by providing them with a an interactive map website, hosted on google cloud, that shows them real time, forecast and historical data on the air quality of their city.
+We aim to help the residents of St. Louis by providing them with a an interactive map website, hosted on google cloud, that shows them real time, forecast and historical data on the air quality of their city.
 
 # Resources
 
@@ -24,12 +23,13 @@ We aim to help the residents of Saint Louise by providing them with a an interac
 - AirNow API
 
 
-## Investigative researchers 
+## Investigative Researchers 
 - Andrianina Raharijao
 - Nidhi Madabhushi 
 - Urvashi Kishnani
 
-- Sheri Mickelson(mentor)
-- Cole Mcknight(mentor)
+- Cole McKnight (mentor)
+- Sheri Mickelson (co-mentor)
+
 
 ##
